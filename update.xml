@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='kghjanpddkilfddkjacdenamooieahep'>
+  <app appid='bilgclejglcngcfpaggggmfgcncekfbk'>
     <updatecheck codebase='https://raw.githubusercontent.com/pamarthi-siva/dlp-extension-assets/main/dbs-agent.crx' version='1.0.0' />
   </app>
 </gupdate>
